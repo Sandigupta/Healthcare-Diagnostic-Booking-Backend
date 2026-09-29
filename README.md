@@ -4,7 +4,6 @@ A simple REST API that lets users sign up, book diagnostic tests at centres, and
 
 Built with **Node.js + TypeScript + Express + PostgreSQL (Neon)**.
 
-> **Note on submission files:** This is a Node.js project, so dependencies live in [`package.json`](package.json) (same role as Python’s `requirements.txt` / `pyproject.toml`). Docker is **not** used in this version, so there is no `Dockerfile` or `docker-compose.yml`.
 
 ---
 
